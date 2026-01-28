@@ -1,0 +1,9 @@
+datasets
+torch
+numpy
+PyYAML
+tiktoken
+dagshub
+dvc
+uvicorn
+fastapi

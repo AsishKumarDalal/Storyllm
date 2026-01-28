@@ -1,0 +1,8 @@
+__pycache__
+.lightning_studio/
+.triton
+archive (1).zip
+*.pth
+*-server
+.idea/
+.vscode/
